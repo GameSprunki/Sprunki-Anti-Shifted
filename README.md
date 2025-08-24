@@ -32,4 +32,5 @@ Developed by dedicated community members who wanted to explore alternative appro
 The matching of clean visuals with unprocessed audio creates a unified aesthetic where every element works together without distraction.
 
 👉👉 Click to play，more other intersting games: [Sprunki Rejoyed Secret Mod](https://game-sprunki.com/games/sprunki-rejoyed-secret-mod/)
+
 👉👉 Click to play，more other intersting games: [Sprunki Star and Header](https://sprunkiretake.world/games/sprunki-star-and-heart/)
