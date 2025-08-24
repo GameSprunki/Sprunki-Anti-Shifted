@@ -3,11 +3,16 @@ Free online Sprunki: Anti-Shifted
 
 
 👉👉 Click to play，lastest Sprunki Anti-Shifted Version: [Sprunki: Anti-Shifted](https://game-sprunki.com/games/sprunki-anti-shifted/)
+
 👉👉 Click to play，Multi-shift Version: [Sprunki Multishift](https://game-sprunki.com/games/incredibox-sprunki-multishift/)
+
 
 ## What is Sprunki: Anti-Shifted?
 Sprunki: Anti-Shifted takes a completely different approach to the traditional Sprunki experience by maintaining sounds in their natural frequency state. Instead of applying typical audio modifications, this version preserves each musical element exactly as recorded, creating a distinctive compositional environment.
 Players interact with a specialized roster of musical performers, where each character delivers consistent, unmodified audio contributions. This design philosophy creates an unusual creative space where the focus shifts from audio manipulation to pure harmonic exploration and natural sound layering.
+
+<img width="480" height="360" alt="sprunki-anti-shifted" src="https://github.com/user-attachments/assets/bfb30238-6bee-45af-a644-7dcbd561bfd2" />
+
 
 ## Why This Matters?
 
